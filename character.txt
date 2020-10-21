@@ -1,2 +1,2 @@
 2 cats
-1 crocodile
+2 crocodile
